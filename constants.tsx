@@ -26,7 +26,7 @@ export const STAGES: JourneyStage[] = [
   },
   {
     title: "The Horizon",
-    description: "Even if it means moving far away to build your life, my care is not conditional on distance.",
+    description: "No matter where your path leads, my care for you is not conditional on distance, timing, or outcomes. I am your safe harbor.",
     icon: <MapPin className="w-6 h-6 text-rose-500" />,
   },
   {
